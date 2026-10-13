@@ -1,0 +1,6 @@
+{
+  "name": "DowntimePro - Análisis Pareto",
+  "description": "Sistema para análisis de tiempo muerto en líneas de producción con diagramas de Pareto por problema, línea y semana del año.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
